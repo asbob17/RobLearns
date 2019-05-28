@@ -1,0 +1,22 @@
+C:\Users\rob.johnson\source\repos\fizzbuzzapp1\fizzbuzzapp1\bin\Debug\netcoreapp2.1\fizzbuzzapp1.deps.json
+C:\Users\rob.johnson\source\repos\fizzbuzzapp1\fizzbuzzapp1\bin\Debug\netcoreapp2.1\fizzbuzzapp1.runtimeconfig.json
+C:\Users\rob.johnson\source\repos\fizzbuzzapp1\fizzbuzzapp1\bin\Debug\netcoreapp2.1\fizzbuzzapp1.runtimeconfig.dev.json
+C:\Users\rob.johnson\source\repos\fizzbuzzapp1\fizzbuzzapp1\bin\Debug\netcoreapp2.1\fizzbuzzapp1.dll
+C:\Users\rob.johnson\source\repos\fizzbuzzapp1\fizzbuzzapp1\bin\Debug\netcoreapp2.1\fizzbuzzapp1.pdb
+C:\Users\rob.johnson\source\repos\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.csprojAssemblyReference.cache
+C:\Users\rob.johnson\source\repos\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.csproj.CoreCompileInputs.cache
+C:\Users\rob.johnson\source\repos\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.AssemblyInfoInputs.cache
+C:\Users\rob.johnson\source\repos\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.AssemblyInfo.cs
+C:\Users\rob.johnson\source\repos\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.dll
+C:\Users\rob.johnson\source\repos\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.pdb
+C:\Users\rob.johnson\Desktop\dev tasks\fizzbuzzapp1\fizzbuzzapp1\bin\Debug\netcoreapp2.1\fizzbuzzapp1.deps.json
+C:\Users\rob.johnson\Desktop\dev tasks\fizzbuzzapp1\fizzbuzzapp1\bin\Debug\netcoreapp2.1\fizzbuzzapp1.runtimeconfig.json
+C:\Users\rob.johnson\Desktop\dev tasks\fizzbuzzapp1\fizzbuzzapp1\bin\Debug\netcoreapp2.1\fizzbuzzapp1.runtimeconfig.dev.json
+C:\Users\rob.johnson\Desktop\dev tasks\fizzbuzzapp1\fizzbuzzapp1\bin\Debug\netcoreapp2.1\fizzbuzzapp1.dll
+C:\Users\rob.johnson\Desktop\dev tasks\fizzbuzzapp1\fizzbuzzapp1\bin\Debug\netcoreapp2.1\fizzbuzzapp1.pdb
+C:\Users\rob.johnson\Desktop\dev tasks\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.csprojAssemblyReference.cache
+C:\Users\rob.johnson\Desktop\dev tasks\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.csproj.CoreCompileInputs.cache
+C:\Users\rob.johnson\Desktop\dev tasks\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.AssemblyInfoInputs.cache
+C:\Users\rob.johnson\Desktop\dev tasks\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.AssemblyInfo.cs
+C:\Users\rob.johnson\Desktop\dev tasks\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.dll
+C:\Users\rob.johnson\Desktop\dev tasks\fizzbuzzapp1\fizzbuzzapp1\obj\Debug\netcoreapp2.1\fizzbuzzapp1.pdb
