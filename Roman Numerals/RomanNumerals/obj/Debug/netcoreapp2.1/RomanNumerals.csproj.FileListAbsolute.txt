@@ -1,0 +1,11 @@
+D:\git\RobLearns\Roman Numerals\RomanNumerals\bin\Debug\netcoreapp2.1\RomanNumerals.deps.json
+D:\git\RobLearns\Roman Numerals\RomanNumerals\bin\Debug\netcoreapp2.1\RomanNumerals.runtimeconfig.json
+D:\git\RobLearns\Roman Numerals\RomanNumerals\bin\Debug\netcoreapp2.1\RomanNumerals.runtimeconfig.dev.json
+D:\git\RobLearns\Roman Numerals\RomanNumerals\bin\Debug\netcoreapp2.1\RomanNumerals.dll
+D:\git\RobLearns\Roman Numerals\RomanNumerals\bin\Debug\netcoreapp2.1\RomanNumerals.pdb
+D:\git\RobLearns\Roman Numerals\RomanNumerals\obj\Debug\netcoreapp2.1\RomanNumerals.csprojAssemblyReference.cache
+D:\git\RobLearns\Roman Numerals\RomanNumerals\obj\Debug\netcoreapp2.1\RomanNumerals.csproj.CoreCompileInputs.cache
+D:\git\RobLearns\Roman Numerals\RomanNumerals\obj\Debug\netcoreapp2.1\RomanNumerals.AssemblyInfoInputs.cache
+D:\git\RobLearns\Roman Numerals\RomanNumerals\obj\Debug\netcoreapp2.1\RomanNumerals.AssemblyInfo.cs
+D:\git\RobLearns\Roman Numerals\RomanNumerals\obj\Debug\netcoreapp2.1\RomanNumerals.dll
+D:\git\RobLearns\Roman Numerals\RomanNumerals\obj\Debug\netcoreapp2.1\RomanNumerals.pdb
