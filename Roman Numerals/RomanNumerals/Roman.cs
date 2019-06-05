@@ -13,7 +13,16 @@ namespace RomanNumerals
 			string[] romans = new string[]
 				{ "M", "D", "C", "L", "X", "V", "I" };
 
-			Console.WriteLine(romans[0]);
+			int x = 1;
+
+				while (x > 0)
+			{
+				string input;
+				Console.WriteLine("Enter a Roman Numeral to convert - ");
+				input = Console.ReadLine();
+				Console.WriteLine("You entered - '{0}'", input);
+				x--;
+			}
 
 			Console.Read();
 		}
