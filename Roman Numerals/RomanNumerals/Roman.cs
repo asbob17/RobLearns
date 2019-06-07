@@ -7,8 +7,6 @@ namespace RomanNumerals
 	{
 		static void Main(string[] args)
 		{
-			//NumeralsAsIf();
-
 			Console.WriteLine("Roman Numerals");
 
 			int[] decimalValues = new int[] { 1000, 500, 100, 50, 10,9, 5, 4, 1 };

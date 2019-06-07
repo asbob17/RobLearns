@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "whichduck", "fizzbuzzapp1\whichduck.csproj", "{2E60EDB1-C4AB-4AC9-BEB4-B53FF700FFC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "..\Roman Numerals\RomanNumerals\RomanNumerals.csproj", "{E452919C-73E2-4B24-BB46-37E9DFD1442B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanNumerals", "..\Roman Numerals\RomanNumerals\RomanNumerals.csproj", "{E452919C-73E2-4B24-BB46-37E9DFD1442B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife", "GameOfLife\GameOfLife.csproj", "{842C0B06-A6CF-4DE3-B0F5-CB334B3F25B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E452919C-73E2-4B24-BB46-37E9DFD1442B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E452919C-73E2-4B24-BB46-37E9DFD1442B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E452919C-73E2-4B24-BB46-37E9DFD1442B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842C0B06-A6CF-4DE3-B0F5-CB334B3F25B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842C0B06-A6CF-4DE3-B0F5-CB334B3F25B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842C0B06-A6CF-4DE3-B0F5-CB334B3F25B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842C0B06-A6CF-4DE3-B0F5-CB334B3F25B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
