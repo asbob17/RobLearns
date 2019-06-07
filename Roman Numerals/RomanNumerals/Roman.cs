@@ -7,20 +7,40 @@ namespace RomanNumerals
 	{
 		static void Main(string[] args)
 		{
+			//NumeralsAsIf();
+
 			Console.WriteLine("Roman Numerals");
 
-			int[] inputvalues = new int[] { 1000, 500, 100, 50, 10, 5, 1 };
-			string[] romans = new string[]
-				{ "M", "D", "C", "L", "X", "V", "I" };
+			int[] decimalValues = new int[] { 1000, 500, 100, 50, 10,9, 5, 4, 1 };
+			string[] numerals = new string[] { "M", "D", "C", "L", "X","IX","V","IV","I" };
+
+			var input = 1984;
+			var output = "";
+			for (var i = 0; i < numerals.Length; i++)
+			{
+				while (input >= decimalValues[i])
+				{
+					output += numerals[i];
+					input -= decimalValues[i];
+				}
+
+			}
+
+			Console.WriteLine(output);
+			Console.Read();
+		}
+
+		private static void NumeralsAsIf()
+		{
+			Console.WriteLine("Roman Numerals");
 
 			int x = 1;
 
-			while (x >= 0)
+			while (x > 0)
 			{
 				int input;
 				Console.WriteLine("Enter a Number to convert - ");
 				input = int.Parse(Console.ReadLine());
-				Console.WriteLine("You entered - '{0}'", input);
 				x--;
 
 				var output = string.Empty;
@@ -89,8 +109,6 @@ namespace RomanNumerals
 
 				Console.WriteLine(output);
 			}
-
-			Console.Read();
 		}
 	}
 }
