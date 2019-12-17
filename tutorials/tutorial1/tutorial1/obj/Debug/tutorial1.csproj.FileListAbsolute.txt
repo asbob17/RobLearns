@@ -1,0 +1,7 @@
+D:\git\RobLearns\tutorials\tutorial1\tutorial1\bin\Debug\tutorial1.exe.config
+D:\git\RobLearns\tutorials\tutorial1\tutorial1\bin\Debug\tutorial1.exe
+D:\git\RobLearns\tutorials\tutorial1\tutorial1\bin\Debug\tutorial1.pdb
+D:\git\RobLearns\tutorials\tutorial1\tutorial1\obj\Debug\tutorial1.csprojAssemblyReference.cache
+D:\git\RobLearns\tutorials\tutorial1\tutorial1\obj\Debug\tutorial1.csproj.CoreCompileInputs.cache
+D:\git\RobLearns\tutorials\tutorial1\tutorial1\obj\Debug\tutorial1.exe
+D:\git\RobLearns\tutorials\tutorial1\tutorial1\obj\Debug\tutorial1.pdb
